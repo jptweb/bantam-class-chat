@@ -1,0 +1,155 @@
+================================
+COURSE INFORMATION
+================================
+
+COURSE NAME: [Your Course Name]
+COURSE CODE: [CS101 or Your Course Code]
+INSTRUCTOR: [Instructor Name]
+SEMESTER: [Spring 2025]
+MEETING TIME: [Days and Times]
+LOCATION: [Room/Building or Online]
+
+================================
+COURSE SCHEDULE & IMPORTANT DATES
+================================
+
+ASSIGNMENTS:
+- Assignment 1: [Topic] - Due [Date, Time]
+- Assignment 2: [Topic] - Due [Date, Time]
+- Assignment 3: [Topic] - Due [Date, Time]
+- Assignment 4: [Topic] - Due [Date, Time]
+
+EXAMS:
+- Midterm Exam: [Date, Time, Location]
+- Final Exam: [Date, Time, Location]
+
+PROJECT MILESTONES:
+- Project Proposal Due: [Date]
+- Project Check-in: [Date]
+- Final Project Due: [Date]
+- Project Presentations: [Date]
+
+================================
+COURSE POLICIES
+================================
+
+GRADING BREAKDOWN:
+- Assignments: [%]
+- Midterm Exam: [%]
+- Final Exam: [%]
+- Project: [%]
+- Participation: [%]
+
+LATE WORK POLICY:
+- [Your late work policy, e.g., -10% per day, maximum 3 days late]
+- Extensions must be requested before the deadline
+
+COLLABORATION POLICY:
+- Discussion of concepts and approaches is encouraged
+- All submitted code must be your own work
+- Cite any resources or discussions that influenced your solution
+- Direct code sharing is prohibited and constitutes academic dishonesty
+
+ATTENDANCE POLICY:
+- [Your attendance requirements]
+
+================================
+OFFICE HOURS & SUPPORT
+================================
+
+INSTRUCTOR OFFICE HOURS:
+- [Days, Times, Location/Zoom Link]
+
+TEACHING ASSISTANT HOURS:
+- [Days, Times, Location/Zoom Link]
+
+COMMUNICATION:
+- Email: [Contact email]
+- Response time: [Expected response time]
+- Course website: [URL]
+- Discussion forum: [Platform and link]
+
+================================
+COURSE TOPICS & CONCEPTS
+================================
+
+WEEK 1-2: Introduction to Programming
+- Variables and data types
+- Basic input/output
+- Operators and expressions
+
+WEEK 3-4: Control Structures
+- Conditional statements (if/else)
+- Loops (for, while)
+- Nested structures
+
+WEEK 5-6: Functions and Modules
+- Function definition and calls
+- Parameters and return values
+- Scope and lifetime
+- Importing modules
+
+WEEK 7-8: Data Structures
+- Lists and arrays
+- Dictionaries/Maps
+- Sets and tuples
+- String manipulation
+
+WEEK 9-10: Object-Oriented Programming
+- Classes and objects
+- Methods and attributes
+- Inheritance
+- Encapsulation
+
+WEEK 11-12: File I/O and Exception Handling
+- Reading and writing files
+- Error handling
+- Debugging techniques
+
+WEEK 13-14: Advanced Topics
+- [Specific to your course]
+
+WEEK 15: Review and Final Project
+
+================================
+RESOURCES
+================================
+
+REQUIRED TEXTBOOK:
+- [Title, Author, Edition, ISBN]
+
+RECOMMENDED RESOURCES:
+- [Online tutorials, documentation]
+- [Supplementary reading]
+- [Practice websites]
+
+SOFTWARE/TOOLS:
+- [Required IDE or editor]
+- [Programming language version]
+- [Any specific libraries or tools]
+
+================================
+FREQUENTLY ASKED QUESTIONS
+================================
+
+Q: Can I use AI tools like ChatGPT for assignments?
+A: You may use AI tools for learning concepts, but all submitted code must be your own. You must cite any AI assistance received.
+
+Q: How do I submit assignments?
+A: [Submission instructions]
+
+Q: What if I'm stuck on a problem?
+A: Start by reviewing lecture materials, then try the discussion forum. Come to office hours for additional help.
+
+Q: Can I work with classmates?
+A: You can discuss approaches and concepts, but must write your own code independently.
+
+================================
+ADDITIONAL NOTES
+================================
+
+[Add any course-specific information, special requirements, or important announcements here]
+
+================================
+
+Note: This knowledge base should be updated regularly with current information, announcements, and clarifications throughout the semester.

@@ -1,0 +1,172 @@
+================================
+COURSE INFORMATION
+================================
+
+COURSE: Introduction to Computer Science
+SECTION: CS101-03
+SEMESTER: Spring 2025
+INSTRUCTOR: Dr. Sarah Johnson
+EMAIL: sjohnson@university.edu
+OFFICE: Science Building Room 301
+CLASS TIME: Tuesday/Thursday 2:00-3:15 PM
+LOCATION: Tech Hall 105
+
+================================
+IMPORTANT DATES & DEADLINES
+================================
+
+ASSIGNMENTS (All due at 11:59 PM):
+- Assignment 1 (Variables): Friday, February 7
+- Assignment 2 (Conditionals): Friday, February 14
+- Assignment 3 (Loops): Friday, February 21
+- Assignment 4 (Functions): Friday, February 28
+- Assignment 5 (Lists): Friday, March 7
+- Assignment 6 (Dictionaries): Friday, March 21
+- Final Project Proposal: Friday, March 28
+- Final Project: Friday, May 2
+
+EXAMS:
+- Midterm Exam: Thursday, March 13, 2:00-3:15 PM (in class)
+- Final Exam: Tuesday, May 13, 2:00-4:00 PM (Tech Hall 105)
+
+BREAKS:
+- Spring Break: March 15-23 (No classes)
+- No class: April 1 (Campus Holiday)
+
+================================
+GRADING POLICY
+================================
+
+GRADE BREAKDOWN:
+- Assignments (6): 30% (5% each)
+- Midterm Exam: 20%
+- Final Exam: 25%
+- Final Project: 20%
+- Class Participation: 5%
+
+GRADING SCALE:
+- A: 93-100%
+- A-: 90-92%
+- B+: 87-89%
+- B: 83-86%
+- B-: 80-82%
+- C+: 77-79%
+- C: 73-76%
+- C-: 70-72%
+- D: 60-69%
+- F: Below 60%
+
+================================
+COURSE POLICIES
+================================
+
+LATE WORK POLICY:
+- 10% deduction per day late
+- Maximum 3 days late accepted
+- After 3 days, assignment receives 0%
+- Extensions must be requested BEFORE the deadline
+- Medical/emergency extensions require documentation
+
+ATTENDANCE POLICY:
+- Attendance is expected but not mandatory
+- More than 3 unexcused absences may affect participation grade
+- Please email if you will miss class
+
+SUBMISSION INSTRUCTIONS:
+- All assignments submitted via Canvas
+- File format: .py files only
+- Naming convention: lastname_assignment#.py
+- Example: smith_assignment1.py
+
+ACADEMIC INTEGRITY:
+- You may discuss concepts with classmates
+- All code must be written independently
+- Copying code is strictly prohibited
+- First offense: 0 on assignment
+- Second offense: F in course
+
+REGRADE REQUESTS:
+- Must be submitted within 1 week of grade posting
+- Submit via email with detailed explanation
+- Entire assignment will be regraded
+
+================================
+OFFICE HOURS & SUPPORT
+================================
+
+INSTRUCTOR OFFICE HOURS:
+- Tuesday: 3:30-5:00 PM (Room 301)
+- Thursday: 3:30-4:30 PM (Room 301)
+- By appointment: Email to schedule
+
+TEACHING ASSISTANT:
+- Name: Michael Chen
+- Email: mchen@university.edu
+- Office Hours: Monday/Wednesday 2:00-4:00 PM
+- Location: Computer Lab (Tech Hall 201)
+
+TUTORING CENTER:
+- Location: Library 2nd Floor
+- Hours: Monday-Friday 9 AM - 8 PM
+- Drop-in tutoring available
+
+================================
+REQUIRED MATERIALS
+================================
+
+TEXTBOOK:
+- "Python Programming Fundamentals" 3rd Edition
+- Author: Jane Smith
+- ISBN: 978-0-123456-78-9
+- Available at campus bookstore or online
+
+SOFTWARE:
+- Python 3.10 or higher (free)
+- VS Code or PyCharm (free)
+- All software available in computer labs
+
+CANVAS:
+- All materials posted on Canvas
+- Check Canvas daily for announcements
+- Assignment submissions through Canvas only
+
+================================
+EXAM INFORMATION
+================================
+
+MIDTERM EXAM:
+- Date: Thursday, March 13
+- Time: 2:00-3:15 PM (regular class time)
+- Location: Tech Hall 105 (regular classroom)
+- Format: 50 multiple choice, 5 short answer
+- Topics: Chapters 1-6
+- Closed book, closed notes
+- Bring: Student ID and pencil
+
+FINAL EXAM:
+- Date: Tuesday, May 13
+- Time: 2:00-4:00 PM
+- Location: Tech Hall 105
+- Format: 75 multiple choice, 8 short answer
+- Cumulative (emphasis on Chapters 7-12)
+- Closed book, closed notes
+- Bring: Student ID and pencil
+
+================================
+COMMUNICATION GUIDELINES
+================================
+
+EMAIL ETIQUETTE:
+- Use university email only
+- Subject line: CS101 - [Your Topic]
+- Allow 24-48 hours for response
+- No emails after 9 PM or on weekends will be answered until next business day
+
+QUESTIONS ABOUT GRADES:
+- Check Canvas first
+- Email TA for assignment grades
+- Email instructor for exam grades
+
+EMERGENCY SITUATIONS:
+- Email instructor immediately
+- Documentation required for extensions
