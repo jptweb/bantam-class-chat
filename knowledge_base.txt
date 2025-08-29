@@ -2,154 +2,239 @@
 COURSE INFORMATION
 ================================
 
-COURSE NAME: [Your Course Name]
-COURSE CODE: [CS101 or Your Course Code]
-INSTRUCTOR: [Instructor Name]
-SEMESTER: [Spring 2025]
-MEETING TIME: [Days and Times]
-LOCATION: [Room/Building or Online]
+COURSE: Introduction to Interactive Media
+COURSE CODE: IGME-110
+SEMESTER: Fall 2025
+INSTRUCTOR: John-Paul Takats
+EMAIL: jxtadm@rit.edu
+OFFICE: GOL-2527
+OFFICE HOURS: Check https://people.rit.edu/~jxtadm/ for latest info
+                Virtual Zoom hours available by appointment
+
+SECTIONS:
+- Section 02: Tuesday/Thursday 2:00-3:15 PM (MSS 2150)
+- Section 08: Tuesday/Thursday 8:00-9:15 AM (GOL 2435)
 
 ================================
-COURSE SCHEDULE & IMPORTANT DATES
+IMPORTANT DATES & DEADLINES
 ================================
 
-ASSIGNMENTS:
-- Assignment 1: [Topic] - Due [Date, Time]
-- Assignment 2: [Topic] - Due [Date, Time]
-- Assignment 3: [Topic] - Due [Date, Time]
-- Assignment 4: [Topic] - Due [Date, Time]
+WEEKLY ASSIGNMENTS:
+- Study Guides: Due before Tuesday class each week
+- In-Class Activities: Completed during class sessions
 
-EXAMS:
-- Midterm Exam: [Date, Time, Location]
-- Final Exam: [Date, Time, Location]
+PROJECT DEADLINES:
+- Project 1 - Group App Proposal (12%)
+  * Week 1: Individual Idea Due
+  * Week 2: Project Plan Due
+  * Week 4: Final Document Due
+  * Week 4: Peer Evaluations & Reflections Due
 
-PROJECT MILESTONES:
-- Project Proposal Due: [Date]
-- Project Check-in: [Date]
-- Final Project Due: [Date]
-- Project Presentations: [Date]
+- Project 2 - Individual Infographic (13%)
+  * Week 5: Content Plan Due
+  * Week 7: Mockup Draft Due
+  * Week 8: Final Infographic Due
+
+- Project 3 - Group Prototype (12%)
+  * Week 9: Work Plan Due
+  * Week 11: Prototype Petting Zoo (Playtest)
+  * Week 12: Group Presentations
+  * Week 12: Peer Evaluations & Reflections Due
+
+- Project 4 - Individual Video (13%)
+  * Week 13: Storyboard Due
+  * Final Week: Final Video Due
+
+BREAKS:
+- Thanksgiving Week: Modified schedule (Week 14)
+
+================================
+GRADING POLICY
+================================
+
+GRADE BREAKDOWN:
+- Weekly Study Guides: 25%
+- In-Class Activities: 15%
+- Project 1 (Group App Proposal): 12%
+- Project 2 (Individual Infographic): 13%
+- Project 3 (Group Prototype): 12%
+- Project 4 (Individual Video): 13%
+- Attendance: 10%
+
+GRADING SCALE:
+- A: 90-100%
+- B: 80-89.99%
+- C: 70-79.99%
+- D: 65-69.99%
+- F: Below 65%
+
+================================
+ATTENDANCE POLICY
+================================
+
+ATTENDANCE REQUIREMENTS:
+- Attendance taken every class
+- Being late = ½ absence
+
+UNEXCUSED ABSENCE PENALTIES:
+- 1 absence: No penalty
+- 2 absences: -20% to attendance grade (-2% final grade)
+- 3 absences: -50% to attendance grade (-5% final grade)
+- 4 absences: -100% to attendance grade (-10% final grade)
+- 5+ absences: Additional -5% per absence from final grade
+
+EXCUSED ABSENCES:
+- Must notify instructor BEFORE class
+- Documentation may be required
+- Can potentially attend another section with prior approval
 
 ================================
 COURSE POLICIES
 ================================
 
-GRADING BREAKDOWN:
-- Assignments: [%]
-- Midterm Exam: [%]
-- Final Exam: [%]
-- Project: [%]
-- Participation: [%]
-
 LATE WORK POLICY:
-- [Your late work policy, e.g., -10% per day, maximum 3 days late]
-- Extensions must be requested before the deadline
+- Extensions must be requested 12+ hours BEFORE deadline
+- Late work NOT accepted without prior approval
+- Group project deliverables: NO extensions
+- Missing occasional assignments won't severely impact grade
 
-COLLABORATION POLICY:
-- Discussion of concepts and approaches is encouraged
-- All submitted code must be your own work
-- Cite any resources or discussions that influenced your solution
-- Direct code sharing is prohibited and constitutes academic dishonesty
+FOOD POLICY:
+- NO food or liquids except water in classroom
+- No items containing nuts (allergy concerns)
+- Plain black coffee acceptable
 
-ATTENDANCE POLICY:
-- [Your attendance requirements]
+GENERATIVE AI POLICY:
+- AI tools will be used in course
+- Must acknowledge AI use in submissions
+- Must include chat transcript showing prompts/responses
+- Exception: Assignments explicitly allowing AI don't need transcript
+- Academic integrity violation if not disclosed
 
-================================
-OFFICE HOURS & SUPPORT
-================================
-
-INSTRUCTOR OFFICE HOURS:
-- [Days, Times, Location/Zoom Link]
-
-TEACHING ASSISTANT HOURS:
-- [Days, Times, Location/Zoom Link]
-
-COMMUNICATION:
-- Email: [Contact email]
-- Response time: [Expected response time]
-- Course website: [URL]
-- Discussion forum: [Platform and link]
+ACADEMIC ACCOMMODATIONS:
+- Contact DSO for accommodations: www.rit.edu/dso
+- Notify instructor immediately after receiving approval
+- Extension requests require 12+ hour advance notice
 
 ================================
-COURSE TOPICS & CONCEPTS
+COMMUNICATION & TOOLS
 ================================
 
-WEEK 1-2: Introduction to Programming
-- Variables and data types
-- Basic input/output
-- Operators and expressions
+PRIMARY COMMUNICATION:
+- Slack (preferred): https://rit-igme-110-2251.slack.com/
+- Responses typically within 24 hours
+- Use DM for personal issues
+- Use channels for general questions
 
-WEEK 3-4: Control Structures
-- Conditional statements (if/else)
-- Loops (for, while)
-- Nested structures
+COURSE PLATFORMS:
+- myCourses: Assignments, grades, announcements
+- GitHub: Lecture notes and resources
+- Google Docs: Shared documents and study guides
+- Slack: Daily communication and collaboration
 
-WEEK 5-6: Functions and Modules
-- Function definition and calls
-- Parameters and return values
-- Scope and lifetime
-- Importing modules
+RIT ENTERPRISE SLACK:
+- First-time setup: https://www.rit.edu/its/rit-enterprise-slack
+- Direct workspace URL: https://rit-igme-110-2251.slack.com/
 
-WEEK 7-8: Data Structures
-- Lists and arrays
-- Dictionaries/Maps
-- Sets and tuples
-- String manipulation
-
-WEEK 9-10: Object-Oriented Programming
-- Classes and objects
-- Methods and attributes
-- Inheritance
-- Encapsulation
-
-WEEK 11-12: File I/O and Exception Handling
-- Reading and writing files
-- Error handling
-- Debugging techniques
-
-WEEK 13-14: Advanced Topics
-- [Specific to your course]
-
-WEEK 15: Review and Final Project
+EMAIL GUIDELINES:
+- Use Slack first, email only if needed
+- If emailing, also send Slack message
+- Professional communication expected
 
 ================================
-RESOURCES
+REQUIRED MATERIALS & TOOLS
 ================================
 
-REQUIRED TEXTBOOK:
-- [Title, Author, Edition, ISBN]
+TEXTBOOKS:
+- None required (all materials provided)
 
-RECOMMENDED RESOURCES:
-- [Online tutorials, documentation]
-- [Supplementary reading]
-- [Practice websites]
+SOFTWARE/TOOLS (All Free):
+- Google Docs (via RIT account)
+- Slack
+- Canva (for infographics)
+- Shotcut (video editing)
+- Audacity (audio editing)
+- Various AI tools (Gemini, ChatGPT, Claude)
+- Figma or Google Slides (prototyping)
 
-SOFTWARE/TOOLS:
-- [Required IDE or editor]
-- [Programming language version]
-- [Any specific libraries or tools]
-
-================================
-FREQUENTLY ASKED QUESTIONS
-================================
-
-Q: Can I use AI tools like ChatGPT for assignments?
-A: You may use AI tools for learning concepts, but all submitted code must be your own. You must cite any AI assistance received.
-
-Q: How do I submit assignments?
-A: [Submission instructions]
-
-Q: What if I'm stuck on a problem?
-A: Start by reviewing lecture materials, then try the discussion forum. Come to office hours for additional help.
-
-Q: Can I work with classmates?
-A: You can discuss approaches and concepts, but must write your own code independently.
+ACCESS REQUIREMENTS:
+- RIT Google account: https://www.rit.edu/google/
+- RIT Slack authentication
+- Computer with internet access
 
 ================================
-ADDITIONAL NOTES
+PROJECT OVERVIEW
 ================================
 
-[Add any course-specific information, special requirements, or important announcements here]
+PROJECT 1 - GROUP APP PROPOSAL:
+- Written proposal for app/service/product
+- Research and ideation using AI tools
+- Google Docs collaboration
+- Team size: 3-4 students
+
+PROJECT 2 - INDIVIDUAL INFOGRAPHIC:
+- Visual representation of app concept
+- Tools: Photoshop, Canva
+- Based on Project 1 proposals
+
+PROJECT 3 - GROUP PROTOTYPE:
+- Lo-fi interactive prototype
+- New groups formed
+- Tools: Google Slides, Figma, Canva, or code
+- Focus on content/interaction, not visual design
+
+PROJECT 4 - INDIVIDUAL VIDEO:
+- Promotional video advertisement
+- Based on prototype from Project 3
+- Tools: Shotcut, OBS, Audacity, AI tools
 
 ================================
+IMPORTANT LINKS & RESOURCES
+================================
 
-Note: This knowledge base should be updated regularly with current information, announcements, and clarifications throughout the semester.
+COURSE RESOURCES:
+- Main GitHub site: [Course lecture notes]
+- myCourses: https://mycourses.rit.edu
+- Office hours booking: https://people.rit.edu/~jxtadm/
+
+RIT RESOURCES:
+- Campus maps: https://maps.rit.edu
+- FirstByte (GCCIS first-year program): https://www.rit.edu/computing/firstbyte
+- Generative AI resources: https://www.rit.edu/its/generative-ai
+- AI tools list: https://infoguides.rit.edu/aitools/list
+
+SUPPORT SERVICES:
+- Title IX resources: https://www.rit.edu/fa/compliance/content/title-ix
+- Disability Services: www.rit.edu/dso
+- Counseling Center: 585-475-2261
+- CARES (24/7): Call/text 585-295-3533
+
+================================
+WEEKLY SCHEDULE OVERVIEW
+================================
+
+TYPICAL WEEK STRUCTURE:
+- Tuesday: New material, lectures, activities
+- Thursday: Workshops, group work, project time
+- Before Tuesday: Complete study guide
+- During class: In-class activities and exercises
+
+FLIPPED CLASSROOM MODEL:
+- Watch videos/readings BEFORE class
+- Class time for hands-on work
+- Group activities and discussions
+- Project development workshops
+
+================================
+EMERGENCY PROCEDURES
+================================
+
+CLASS CANCELLATION:
+- Check myCourses announcements
+- Check Slack before class
+- Announcements posted as early as possible
+
+EMERGENCY SITUATIONS:
+- Course requirements subject to change
+- Alternative delivery methods may be used
+- Modified deadlines possible
+- Check myCourses/Slack for updates
